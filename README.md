@@ -3,4 +3,4 @@
 
 A Calculator made by Pure JavaScript and CSS 
 
-View Demo(https://gangstertanu.github.io/jscalculator)
+View Demo (https://gangstertanu.github.io/jscalculator)
